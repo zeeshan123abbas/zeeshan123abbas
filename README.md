@@ -80,6 +80,33 @@ I have taught **every semester and every technology** of Aptech's career program
 
 ---
 
+## 🔥 Popular Repositories
+
+<div align="center">
+
+<a href="https://github.com/zeeshan123abbas/penguins-hadoop-assessment"><img src="./assets/repos/penguins-hadoop-assessment.svg" width="49%" alt="Big Data Penguins Pipeline"/></a>
+<a href="https://github.com/zeeshan123abbas/Flutter_project"><img src="./assets/repos/Flutter_project.svg" width="49%" alt="Flutter Firebase App"/></a>
+
+<a href="https://github.com/zeeshan123abbas/AddtoCartproject.cs"><img src="./assets/repos/AddtoCartproject.cs.svg" width="49%" alt="ShopCart MVC"/></a>
+<a href="https://github.com/zeeshan123abbas/Angular-Project"><img src="./assets/repos/Angular-Project.svg" width="49%" alt="Angular SSR Routing"/></a>
+
+<a href="https://github.com/zeeshan123abbas/PHP-Code"><img src="./assets/repos/PHP-Code.svg" width="49%" alt="PHP Auth System"/></a>
+<a href="https://github.com/zeeshan123abbas/eProject"><img src="./assets/repos/eProject.svg" width="49%" alt="eProject Website"/></a>
+
+</div>
+
+<p align="center"><a href="https://github.com/zeeshan123abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%2080%2B%20repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a></p>
+
+---|---|---|
+| [**🐧 Big Data Penguins Pipeline**](https://github.com/zeeshan123abbas/penguins-hadoop-assessment) | End-to-end pipeline HDFS → Hive → Pandas → PySpark, with tests, CI and a [live dashboard](https://zeeshan123abbas.github.io/penguins-hadoop-assessment/) | Hadoop · Hive · Spark · Python |
+| [**📱 Flutter Firebase App**](https://github.com/zeeshan123abbas/Flutter_project) | Mobile app with sign-up, login, Firestore data and file uploads | Flutter · Dart · Firebase |
+| [**🛒 ShopCart MVC**](https://github.com/zeeshan123abbas/AddtoCartproject.cs) | E-commerce store with products, cart and orders | ASP.NET Core MVC · EF Core |
+| [**🅰️ Angular SSR Routing**](https://github.com/zeeshan123abbas/Angular-Project) | Standalone-component app with server-side rendering | Angular 18 · TypeScript |
+| [**🔐 PHP Auth System**](https://github.com/zeeshan123abbas/PHP-Code) | Secure sign-up, login and logout with bcrypt and sessions | PHP · MySQL · Bootstrap |
+| [**🌐 eProject Website**](https://github.com/zeeshan123abbas/eProject) | Aptech eProject web application | ASP.NET Core MVC |
+
+---
+
 ## 🛠️ Technologies I Teach
 
 **Programming Languages**  
@@ -153,33 +180,6 @@ I have taught **every semester and every technology** of Aptech's career program
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Popular Repositories
-
-<div align="center">
-
-<a href="https://github.com/zeeshan123abbas/penguins-hadoop-assessment"><img src="./assets/repos/penguins-hadoop-assessment.svg" width="49%" alt="Big Data Penguins Pipeline"/></a>
-<a href="https://github.com/zeeshan123abbas/Flutter_project"><img src="./assets/repos/Flutter_project.svg" width="49%" alt="Flutter Firebase App"/></a>
-
-<a href="https://github.com/zeeshan123abbas/AddtoCartproject.cs"><img src="./assets/repos/AddtoCartproject.cs.svg" width="49%" alt="ShopCart MVC"/></a>
-<a href="https://github.com/zeeshan123abbas/Angular-Project"><img src="./assets/repos/Angular-Project.svg" width="49%" alt="Angular SSR Routing"/></a>
-
-<a href="https://github.com/zeeshan123abbas/PHP-Code"><img src="./assets/repos/PHP-Code.svg" width="49%" alt="PHP Auth System"/></a>
-<a href="https://github.com/zeeshan123abbas/eProject"><img src="./assets/repos/eProject.svg" width="49%" alt="eProject Website"/></a>
-
-</div>
-
-<p align="center"><a href="https://github.com/zeeshan123abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%2080%2B%20repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a></p>
-
----|---|---|
-| [**🐧 Big Data Penguins Pipeline**](https://github.com/zeeshan123abbas/penguins-hadoop-assessment) | End-to-end pipeline HDFS → Hive → Pandas → PySpark, with tests, CI and a [live dashboard](https://zeeshan123abbas.github.io/penguins-hadoop-assessment/) | Hadoop · Hive · Spark · Python |
-| [**📱 Flutter Firebase App**](https://github.com/zeeshan123abbas/Flutter_project) | Mobile app with sign-up, login, Firestore data and file uploads | Flutter · Dart · Firebase |
-| [**🛒 ShopCart MVC**](https://github.com/zeeshan123abbas/AddtoCartproject.cs) | E-commerce store with products, cart and orders | ASP.NET Core MVC · EF Core |
-| [**🅰️ Angular SSR Routing**](https://github.com/zeeshan123abbas/Angular-Project) | Standalone-component app with server-side rendering | Angular 18 · TypeScript |
-| [**🔐 PHP Auth System**](https://github.com/zeeshan123abbas/PHP-Code) | Secure sign-up, login and logout with bcrypt and sessions | PHP · MySQL · Bootstrap |
-| [**🌐 eProject Website**](https://github.com/zeeshan123abbas/eProject) | Aptech eProject web application | ASP.NET Core MVC |
 
 ---
 
