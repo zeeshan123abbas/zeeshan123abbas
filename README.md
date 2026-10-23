@@ -62,6 +62,12 @@ I have taught **every semester and every technology** of Aptech's career program
 
 <img src="./assets/expertise.svg" width="100%" alt="Teaching expertise"/>
 
+## 📊 Teaching Analytics
+
+<img src="./assets/dashboard.svg" width="100%" alt="Teaching skills radar and curriculum coverage donut"/>
+
+<img src="./assets/growth.svg" width="100%" alt="Career readiness semester by semester"/>
+
 ---
 
 ## 🛠️ Technologies I Teach
