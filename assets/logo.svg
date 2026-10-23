@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+<defs>
+<radialGradient id="lbg" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#16306E"/><stop offset=".7" stop-color="#0A1633"/><stop offset="1" stop-color="#050B1C"/></radialGradient>
+<linearGradient id="lac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E0B8"><animate attributeName="stop-color" values="#00E0B8;#4F8CFF;#B388FF;#00E0B8" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#4F8CFF"><animate attributeName="stop-color" values="#4F8CFF;#B388FF;#00E0B8;#4F8CFF" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="lmono" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#9FF5E4"/><stop offset="1" stop-color="#7FA8FF"/></linearGradient>
+<linearGradient id="lsh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="lmc"><text x="300" y="338" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-6">ZA</text></clipPath>
+<path id="arcT" d="M300,300 m-232,0 a232,232 0 1,1 464,0"/>
+<path id="arcB" d="M300,300 m-246,0 a246,246 0 0,0 492,0"/>
+<filter id="lgl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8"/></filter>
+<style>
+.r1{transform-origin:300px 300px;animation:lr 22s linear infinite}
+.r2{transform-origin:300px 300px;animation:lr 14s linear infinite reverse}
+.r3{transform-origin:300px 300px;animation:lr 9s linear infinite}
+@keyframes lr{to{transform:rotate(360deg)}}
+.pl{animation:lp 2.6s ease-in-out infinite}@keyframes lp{50%{opacity:.35}}
+.br{transform-origin:300px 300px;animation:lb 4s ease-in-out infinite}@keyframes lb{50%{transform:scale(1.035)}}
+.sw{animation:ls 4s ease-in-out infinite}@keyframes ls{0%{transform:translateX(-260px)}55%,100%{transform:translateX(560px)}}
+.tx{font-family:'Segoe UI',Ubuntu,Arial,sans-serif;font-weight:800;letter-spacing:5px}
+</style>
+</defs>
+<circle cx="300" cy="300" r="298" fill="url(#lbg)"/>
+<circle cx="300" cy="300" r="270" fill="none" stroke="url(#lac)" stroke-width="3" stroke-opacity=".9"/>
+<g class="r1"><circle cx="300" cy="300" r="270" fill="none" stroke="url(#lac)" stroke-width="10" stroke-linecap="round" stroke-dasharray="120 1576"/><circle cx="300" cy="30" r="9" fill="#00E0B8"/></g>
+<text class="tx" font-size="22" fill="#CFE0FF"><textPath xlink:href="#arcT" startOffset="50%" text-anchor="middle">ZEESHAN ABBAS</textPath></text>
+<text class="tx" font-size="17" fill="#7FA8FF"><textPath xlink:href="#arcB" startOffset="50%" text-anchor="middle">APTECH · MANAGER ACADEMICS · KARACHI</textPath></text>
+<g class="r2"><circle cx="300" cy="300" r="196" fill="none" stroke="#4F8CFF" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 10"/>
+<circle cx="496" cy="300" r="7" fill="#B388FF" class="pl"/><circle cx="104" cy="300" r="7" fill="#00E0B8" class="pl"/><circle cx="300" cy="104" r="5" fill="#FFD43B"/><circle cx="300" cy="496" r="5" fill="#FF4F6A"/></g>
+<g class="r3"><circle cx="300" cy="300" r="172" fill="none" stroke="url(#lac)" stroke-width="2" stroke-dasharray="60 40 8 40" stroke-opacity=".7"/></g>
+<g class="br">
+<polygon points="300,150 430,225 430,375 300,450 170,375 170,225" fill="#0D1F4A" stroke="url(#lac)" stroke-width="4"/>
+<polygon points="300,150 430,225 430,375 300,450 170,375 170,225" fill="none" stroke="url(#lac)" stroke-width="12" opacity=".35" filter="url(#lgl)"/>
+<text x="300" y="338" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-6" fill="url(#lmono)">ZA</text>
+<g clip-path="url(#lmc)"><rect class="sw" x="0" y="180" width="120" height="200" fill="url(#lsh)" transform="skewX(-20)"/></g>
+<text x="300" y="398" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="22" font-weight="700" fill="#00E0B8">&lt;/&gt; mentor</text>
+</g>
+</svg>
