@@ -29,6 +29,16 @@ I have taught **every semester and every technology** of Aptech's career program
 
 <img src="./assets/stats.svg" width="100%" alt="80+ repositories, 50+ technologies taught, 8 Aptech programs, on GitHub since 2023"/>
 
+<div align="center">
+
+### 💬 *"Code seekho, project banao, career banao: Sir Zeeshan ke saath."*
+
+</div>
+
+<img src="./assets/why.svg" width="100%" alt="Why students choose to learn with Zeeshan Abbas"/>
+
+<img src="./assets/tracks.svg" width="100%" alt="A learning track for every kind of student"/>
+
 ---
 
 ## 📚 Aptech Programs I Teach
@@ -44,15 +54,7 @@ I have taught **every semester and every technology** of Aptech's career program
 | **Diploma in Artificial Intelligence** | 2 semesters | Python, machine learning, deep learning, NLP, AI applications |
 | **Short courses** | Flexible | Web development, Python programming, Laravel, Flutter, MERN stack, Git & GitHub |
 
-### 🧭 Student roadmap
-
-```mermaid
-flowchart LR
-    A[🌐 CPISM<br/>Web Designer] --> B[⚙️ DISM<br/>Programmer]
-    B --> C[🏗️ HDSE<br/>Full-Stack Developer]
-    C --> D[🚀 ADSE<br/>Mobile, Cloud & AI Developer]
-    D --> E[📊 Data Science & AI<br/>Data Scientist / ML Engineer]
-```
+<img src="./assets/roadmap.svg" width="100%" alt="Student journey from CPISM to career"/>
 
 ---
 
