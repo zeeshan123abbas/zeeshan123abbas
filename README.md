@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.svg" width="170" alt="Zeeshan Abbas logo"/>
+
 <img src="./assets/header.svg" width="100%" alt="Zeeshan Abbas, Senior Faculty and Manager Academics, Aptech North Nazimabad"/>
 
 [![Email](https://img.shields.io/badge/Email-zeeshanabbas%40aptechnorth.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanabbas@aptechnorth.edu.pk)
