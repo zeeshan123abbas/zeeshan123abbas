@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190"><style>
+.t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:21px;font-weight:800;fill:#fff}.d{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:14px;fill:#C7D4EE}.c{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:700}.m{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;fill:#9FB6E0}.cta{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:800;fill:#9AA6FF}
+.bd{stroke-dasharray:120 1500;animation:bd 4s linear infinite}@keyframes bd{to{stroke-dashoffset:-1620}}
+.fl{animation:fl 3s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-5px)}}
+.ar{animation:ar 1.4s ease-in-out infinite}@keyframes ar{50%{transform:translateX(5px)}}
+.pu{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+</style>
+<rect x="1" y="1" width="578" height="188" rx="18" fill="#0F1D42" stroke="#24345E" stroke-width="2"/>
+<rect x="1" y="1" width="578" height="188" rx="18" fill="none" stroke="#9AA6FF" stroke-width="3" class="bd" style="animation-delay:-2.4s"/>
+<g class="fl" style="animation-delay:1.6s"><circle cx="52" cy="52" r="28" fill="#9AA6FF" fill-opacity="0.16"/><text x="52" y="62" text-anchor="middle" font-size="27">🔐</text></g>
+<text x="96" y="48" class="t">PHP Auth System</text><circle cx="102" cy="66" r="5" fill="#4F5D95" class="pu"/><text x="113" y="71" class="m">PHP · Public repository</text>
+<text x="28" y="112" class="d">Secure sign-up, login and logout with bcrypt and sessions</text><rect x="28" y="132" width="45" height="26" rx="13" fill="#9AA6FF" fill-opacity="0.14" stroke="#9AA6FF" stroke-opacity="0.5"/><text x="50" y="149" text-anchor="middle" class="c" fill="#9AA6FF">PHP</text><rect x="80.8" y="132" width="60" height="26" rx="13" fill="#9AA6FF" fill-opacity="0.14" stroke="#9AA6FF" stroke-opacity="0.5"/><text x="111" y="149" text-anchor="middle" class="c" fill="#9AA6FF">MySQL</text><rect x="148.8" y="132" width="90" height="26" rx="13" fill="#9AA6FF" fill-opacity="0.14" stroke="#9AA6FF" stroke-opacity="0.5"/><text x="194" y="149" text-anchor="middle" class="c" fill="#9AA6FF">Bootstrap</text><g class="ar"><text x="552" y="150" text-anchor="end" class="cta">View project →</text></g></svg>
