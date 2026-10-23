@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190"><style>
+.t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:21px;font-weight:800;fill:#fff}.d{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:14px;fill:#C7D4EE}.c{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:700}.m{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;fill:#9FB6E0}.cta{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:800;fill:#B388FF}
+.bd{stroke-dasharray:120 1500;animation:bd 4s linear infinite}@keyframes bd{to{stroke-dashoffset:-1620}}
+.fl{animation:fl 3s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-5px)}}
+.ar{animation:ar 1.4s ease-in-out infinite}@keyframes ar{50%{transform:translateX(5px)}}
+.pu{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+</style>
+<rect x="1" y="1" width="578" height="188" rx="18" fill="#0F1D42" stroke="#24345E" stroke-width="2"/>
+<rect x="1" y="1" width="578" height="188" rx="18" fill="none" stroke="#B388FF" stroke-width="3" class="bd" style="animation-delay:-1.2s"/>
+<g class="fl" style="animation-delay:0.8s"><circle cx="52" cy="52" r="28" fill="#B388FF" fill-opacity="0.16"/><text x="52" y="62" text-anchor="middle" font-size="27">🛒</text></g>
+<text x="96" y="48" class="t">ShopCart MVC</text><circle cx="102" cy="66" r="5" fill="#178600" class="pu"/><text x="113" y="71" class="m">C# · Public repository</text>
+<text x="28" y="112" class="d">E-commerce store with product catalogue, cart and orders</text><rect x="28" y="132" width="113" height="26" rx="13" fill="#B388FF" fill-opacity="0.14" stroke="#B388FF" stroke-opacity="0.5"/><text x="85" y="149" text-anchor="middle" class="c" fill="#B388FF">ASP.NET Core</text><rect x="149.2" y="132" width="75" height="26" rx="13" fill="#B388FF" fill-opacity="0.14" stroke="#B388FF" stroke-opacity="0.5"/><text x="187" y="149" text-anchor="middle" class="c" fill="#B388FF">EF Core</text><rect x="232.39999999999998" y="132" width="98" height="26" rx="13" fill="#B388FF" fill-opacity="0.14" stroke="#B388FF" stroke-opacity="0.5"/><text x="281" y="149" text-anchor="middle" class="c" fill="#B388FF">SQL Server</text><g class="ar"><text x="552" y="150" text-anchor="end" class="cta">View project →</text></g></svg>
