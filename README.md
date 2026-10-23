@@ -109,6 +109,11 @@ I have taught **every semester and every technology** of Aptech's career program
 
 ## 🛠️ Technologies I Teach
 
+<img src="./assets/tech.svg" width="100%" alt="Technologies I teach: C, C++, C#, Java, Python, JavaScript, TypeScript, PHP, Dart, Kotlin, SQL, R, HTML5, CSS3, Bootstrap, jQuery, Tailwind CSS, React, Angular, Next.js, Figma, Adobe XD, ASP.NET Core, Entity Framework, Node.js, Express, Laravel, Spring Boot, Django, Flask, REST APIs, Flutter, Android, Firebase, Microsoft Azure, AWS, Docker, SQL Server, MySQL, MongoDB, PostgreSQL, Oracle, NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, Jupyter, Power BI, Hadoop, Hive, Spark, Git, GitHub, VS Code, Visual Studio, Postman, Linux"/>
+
+<details>
+<summary><b>🔎 View as classic badges</b></summary>
+
 **Programming Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -180,6 +185,8 @@ I have taught **every semester and every technology** of Aptech's career program
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
 
 ---
 
