@@ -6,6 +6,16 @@
 [![Aptech](https://img.shields.io/badge/Aptech-North%20Nazimabad-F7A800?style=for-the-badge&logo=googlescholar&logoColor=white)](https://aptech-education.com.pk/centre/north-nazimabad/)
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan123abbas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeeshan123abbas)
 
+
+<p align="center">
+  <a href="#-introduction"><b>👨‍🏫 About</b></a> &nbsp;•&nbsp;
+  <a href="#-aptech-programs-i-teach"><b>📚 Programs</b></a> &nbsp;•&nbsp;
+  <a href="#-teaching-analytics"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
+  <a href="#-popular-repositories"><b>🔥 Repositories</b></a> &nbsp;•&nbsp;
+  <a href="#️-technologies-i-teach"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-for-my-students"><b>🎯 Students</b></a>
+</p>
+
 </div>
 
 ---
@@ -146,10 +156,24 @@ I have taught **every semester and every technology** of Aptech's career program
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Popular Repositories
 
-| Project | Description | Stack |
-|---|---|---|
+<div align="center">
+
+<a href="https://github.com/zeeshan123abbas/penguins-hadoop-assessment"><img src="./assets/repos/penguins-hadoop-assessment.svg" width="49%" alt="Big Data Penguins Pipeline"/></a>
+<a href="https://github.com/zeeshan123abbas/Flutter_project"><img src="./assets/repos/Flutter_project.svg" width="49%" alt="Flutter Firebase App"/></a>
+
+<a href="https://github.com/zeeshan123abbas/AddtoCartproject.cs"><img src="./assets/repos/AddtoCartproject.cs.svg" width="49%" alt="ShopCart MVC"/></a>
+<a href="https://github.com/zeeshan123abbas/Angular-Project"><img src="./assets/repos/Angular-Project.svg" width="49%" alt="Angular SSR Routing"/></a>
+
+<a href="https://github.com/zeeshan123abbas/PHP-Code"><img src="./assets/repos/PHP-Code.svg" width="49%" alt="PHP Auth System"/></a>
+<a href="https://github.com/zeeshan123abbas/eProject"><img src="./assets/repos/eProject.svg" width="49%" alt="eProject Website"/></a>
+
+</div>
+
+<p align="center"><a href="https://github.com/zeeshan123abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%2080%2B%20repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a></p>
+
+---|---|---|
 | [**🐧 Big Data Penguins Pipeline**](https://github.com/zeeshan123abbas/penguins-hadoop-assessment) | End-to-end pipeline HDFS → Hive → Pandas → PySpark, with tests, CI and a [live dashboard](https://zeeshan123abbas.github.io/penguins-hadoop-assessment/) | Hadoop · Hive · Spark · Python |
 | [**📱 Flutter Firebase App**](https://github.com/zeeshan123abbas/Flutter_project) | Mobile app with sign-up, login, Firestore data and file uploads | Flutter · Dart · Firebase |
 | [**🛒 ShopCart MVC**](https://github.com/zeeshan123abbas/AddtoCartproject.cs) | E-commerce store with products, cart and orders | ASP.NET Core MVC · EF Core |
