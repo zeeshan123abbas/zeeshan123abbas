@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1F6FEB,100:00C9A7&height=220&section=header&text=Zeeshan%20Abbas&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Faculty%20%26%20Manager%20Academics%20%7C%20Aptech%20North%20Nazimabad&descAlignY=58&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=720&lines=Senior+Faculty+%26+Manager+Academics+%40+Aptech;Masters+in+Data+Science;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+AI+%26+Big+Data;Building+industry-ready+developers+since+day+one)](https://github.com/zeeshan123abbas)
+<img src="./assets/header.svg" width="100%" alt="Zeeshan Abbas, Senior Faculty and Manager Academics, Aptech North Nazimabad"/>
 
 [![Email](https://img.shields.io/badge/Email-zeeshanabbas%40aptechnorth.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanabbas@aptechnorth.edu.pk)
 [![Aptech](https://img.shields.io/badge/Aptech-North%20Nazimabad-F7A800?style=for-the-badge&logo=googlescholar&logoColor=white)](https://aptech-education.com.pk/centre/north-nazimabad/)
@@ -29,6 +27,8 @@ I have taught **every semester and every technology** of Aptech's career program
 </tr>
 </table>
 
+<img src="./assets/stats.svg" width="100%" alt="80+ repositories, 50+ technologies taught, 8 Aptech programs, on GitHub since 2023"/>
+
 ---
 
 ## 📚 Aptech Programs I Teach
@@ -53,6 +53,12 @@ flowchart LR
     C --> D[🚀 ADSE<br/>Mobile, Cloud & AI Developer]
     D --> E[📊 Data Science & AI<br/>Data Scientist / ML Engineer]
 ```
+
+---
+
+## ⚡ Teaching Expertise
+
+<img src="./assets/expertise.svg" width="100%" alt="Teaching expertise"/>
 
 ---
 
@@ -145,16 +151,18 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contributions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshan123abbas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan123abbas&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/1F6FEB/zeeshan123abbas" width="95%" alt="Contribution chart"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan123abbas&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan123abbas&theme=tokyo-night&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan123abbas/zeeshan123abbas/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zeeshan123abbas/zeeshan123abbas/output/github-snake.svg" width="95%" alt="Contribution snake" />
+</picture>
 
 </div>
 
@@ -181,6 +189,6 @@ Your child learns from a faculty team that teaches **current industry technologi
 
 ![Profile views](https://komarev.com/ghpvc/?username=zeeshan123abbas&color=1F6FEB&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:1F6FEB,100:0A2540&height=120&section=footer" width="100%"/>
+
 
 </div>
