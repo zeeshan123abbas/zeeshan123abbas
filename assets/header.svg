@@ -4,7 +4,10 @@
 <linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#00E0B8"/><stop offset="1" stop-color="#4F8CFF"/></linearGradient>
 <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45"><stop offset="0" stop-color="#4F8CFF" stop-opacity="0.45"/><stop offset="1" stop-color="#4F8CFF" stop-opacity="0"/></radialGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/></pattern>
-<style>
+<linearGradient id="nmg" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".35" stop-color="#9FF5E4"/><stop offset=".5" stop-color="#4F8CFF"/><stop offset=".65" stop-color="#B388FF"/><stop offset="1" stop-color="#FFFFFF"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="nmw" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#DDE9FF"/></linearGradient>
+<filter id="hgl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="nglow" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>
 .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
 .fade{opacity:0;animation:f 1s ease forwards}
 .d1{animation-delay:.2s}.d2{animation-delay:.6s}.d3{animation-delay:1s}.d4{animation-delay:1.4s}.d5{animation-delay:1.8s}
@@ -15,15 +18,15 @@
 .pulse{animation:p 2.4s ease-in-out infinite}
 @keyframes p{50%{opacity:.35}}
 .cur{animation:p 1s steps(1) infinite}
-.shine{animation:sh 5s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1600px)}}</style>
+.hb{transform-origin:960px 190px;animation:hb 3s ease-in-out infinite}@keyframes hb{50%{transform:scale(1.08)}}.ul{transform-origin:62px 181px;animation:ul 4s ease-in-out infinite}@keyframes ul{0%,100%{transform:scaleX(.4)}50%{transform:scaleX(2.6)}}.shine{animation:sh 5s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1600px)}}</style>
 </defs>
 <rect width="1200" height="380" rx="22" fill="url(#bg)"/>
 <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
 <rect width="1200" height="380" rx="22" fill="url(#glow)"/>
 <g class="fade d1"><rect x="60" y="56" width="250" height="34" rx="17" fill="#00E0B8" fill-opacity="0.14" stroke="#00E0B8" stroke-opacity="0.5"/>
 <circle cx="82" cy="73" r="6" fill="#00E0B8" class="pulse"/><text x="98" y="79" class="t" font-size="15" font-weight="600" fill="#9FF5E4" style="fill:#9FF5E4">APTECH · NORTH NAZIMABAD</text></g>
-<text x="60" y="160" class="t fade d2" font-size="68" font-weight="800">Zeeshan Abbas</text>
-<rect x="62" y="178" width="140" height="6" rx="3" fill="url(#acc)" class="fade d2"/>
+<g class="fade d2"><text x="60" y="160" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="70" font-weight="900" letter-spacing="1" fill="#4F8CFF" opacity=".35" filter="url(#hgl)">Zeeshan Abbas</text><text x="60" y="160" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="70" font-weight="900" letter-spacing="1" fill="url(#nmg)">Zeeshan Abbas</text></g>
+<g class="fade d2"><rect x="62" y="178" width="140" height="6" rx="3" fill="url(#acc)" class="ul"/></g>
 <text x="60" y="226" class="t fade d3" font-size="26" font-weight="600" style="fill:#CFE0FF">Senior Faculty &amp; Manager Academics</text>
 <text x="60" y="262" class="t fade d4" font-size="20" style="fill:#9FB6E0">Masters in Data Science · Full-Stack · Mobile · Cloud · AI &amp; Big Data</text>
 <g class="fade d5">
@@ -48,5 +51,8 @@
 <g><circle cx="884.5" cy="158.1" r="22" fill="#062D3F" stroke="#00E0B8" stroke-width="2"/><text x="884.5" y="162.1" text-anchor="middle" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#00E0B8">ML</text></g>
 <g><circle cx="991.9" cy="114.5" r="22" fill="#062D3F" stroke="#4DB33D" stroke-width="2"/><text x="991.9" y="118.5" text-anchor="middle" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#4DB33D">Mongo</text></g>
 </g>
-<circle cx="960" cy="190" r="46" fill="url(#acc)"/><text x="960" y="186" text-anchor="middle" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#0A1A3A">ZA</text><text x="960" y="206" text-anchor="middle" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" fill="#0A1A3A">MENTOR</text>
-<defs><linearGradient id="shg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="shc"><rect width="1200" height="380" rx="22"/></clipPath></defs><g clip-path="url(#shc)"><rect class="shine" x="0" y="-50" width="260" height="480" fill="url(#shg)" transform="skewX(-20)"/></g></svg>
+
+<defs><linearGradient id="shg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="shc"><rect width="1200" height="380" rx="22"/></clipPath></defs><g clip-path="url(#shc)"><rect class="shine" x="0" y="-50" width="260" height="480" fill="url(#shg)" transform="skewX(-20)"/></g><g class="hb"><polygon points="960.0,134.0 1008.5,162.0 1008.5,218.0 960.0,246.0 911.5,218.0 911.5,162.0" fill="#0D1F4A" stroke="url(#nmg)" stroke-width="3"/>
+<polygon points="960.0,134.0 1008.5,162.0 1008.5,218.0 960.0,246.0 911.5,218.0 911.5,162.0" fill="none" stroke="#00E0B8" stroke-width="10" opacity=".25" filter="url(#hgl)"/>
+<text x="960" y="203" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="40" font-weight="900" letter-spacing="-2" fill="url(#nmg)">ZA</text>
+<text x="960" y="222" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="9" font-weight="700" fill="#00E0B8">&lt;/&gt; mentor</text></g></svg>
